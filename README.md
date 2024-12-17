@@ -1,4 +1,4 @@
-#  News Author Page
+#  👨‍💻News Author Page
 This project is a simple **Author Listing Page** built with HTML, CSS, and JavaScript. It fetches author data from an API, displays the authors with their details, and allows users to load more authors dynamically.
 
 ![image](https://github.com/user-attachments/assets/fb93f618-8e8b-4483-a74c-4cc2f0627d65)
